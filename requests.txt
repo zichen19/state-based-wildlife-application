@@ -1,0 +1,15 @@
+update Lizards do not live in the Savvanah
+insert Tulips in Denmark
+update Dragon do not live in Mountains they live in cities
+insert Elephants into the Mountains Habitat
+delete Lizards do not live in the Savanah
+insert Kangaroos in Australia
+insert Whale in Serbia
+update Whale in Serbia to be Beluga whale in the artic ocean.
+delete whales, theyre conspercy theory created by hillary clinton
+insert Dolphins in the artic ocean
+delete delete Dolphins, they're mean
+insert Coleus into the Wetlands
+update Coleus to Cattail
+insert Deer into the Rainforest
+update Green Eyed Tree Frog to live in the Amazon Rain Forest
